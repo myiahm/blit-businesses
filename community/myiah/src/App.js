@@ -13,7 +13,7 @@ class App extends Component {
     render() {
         return (
             <div className="container">
-                <section className="hero">
+                <section className="hero is-primary">
                     <div className="hero-body">
                         <div className="container">
                             <h1 className="title">
